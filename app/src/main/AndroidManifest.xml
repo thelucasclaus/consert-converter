@@ -9,7 +9,7 @@
         android:usesCleartextTraffic="false">
 
         <activity
-            android:name=".MainActivity"
+            android:name="com.concertconverter.app.MainActivity"
             android:exported="true">
 
             <intent-filter>
